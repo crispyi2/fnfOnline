@@ -5,3 +5,6 @@
 this is **NOT** something i made
 
 check out the actual source code for the game [here](https://github.com/ninjamuffin99/Funkin)
+
+# modding
+to load mods clone this repo and install mods how you would in the standalone version
